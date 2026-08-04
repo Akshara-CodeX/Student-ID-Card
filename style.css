@@ -1,11 +1,10 @@
 body{
-    margin-top:50px;
-    margin-left: 300px;
-    padding-top: 50px;
-    padding-left: 300px;
+    margin:0;
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
     background-color:rgb(240,222,240);
-    height: 400px;
-    width: 300px;
 }
 .ph{
     border-radius: 50%;
@@ -15,11 +14,14 @@ body{
     background-color: burlywood;
     justify-content: center;
 }
-.whole {
-    text-align: center;
-    border: 0.3px solid black;
-    border-radius: 15%;
-    background-color: bisque;
+.whole{
+    width:320px;
+    max-width:90%;
+    text-align:center;
+    border:0.3px solid black;
+    border-radius:15%;
+    background-color:bisque;
+    padding:20px;
 }
 .info{
     width: 200px;
