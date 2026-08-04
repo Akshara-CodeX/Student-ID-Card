@@ -1,0 +1,37 @@
+body{
+    margin-top:50px;
+    margin-left: 300px;
+    padding-top: 50px;
+    padding-left: 300px;
+    background-color:rgb(240,222,240);
+    height: 400px;
+    width: 300px;
+}
+.ph{
+    border-radius: 50%;
+    border:0.5px solid black;
+} 
+.head{
+    background-color: burlywood;
+    justify-content: center;
+}
+.whole {
+    text-align: center;
+    border: 0.3px solid black;
+    border-radius: 15%;
+    background-color: bisque;
+}
+.info{
+    width: 200px;
+    margin:  20px auto;
+    text-align: left;
+}
+.info p{
+    margin: 12px 0;
+
+}
+.info span{
+    display: inline-block;
+    width: 60px;
+
+}
