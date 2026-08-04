@@ -8,6 +8,7 @@ A clean and responsive **Student ID Card** designed using **HTML5** and **CSS3**
 
 - 🎓 Modern Student ID Card Design
 - 🎨 Clean & Attractive UI
+- 📱 Responsive UI
 - 💻 Beginner-Friendly Code
 - ⚡ Lightweight and Easy to Customize
 - 📂 Well-Organized Project Structure
@@ -47,6 +48,7 @@ Student-ID-Card/
 - HTML Structure
 - CSS Styling
 - Flexbox
+- Responsiveness
 - Card Layout Design
 - UI Development
 
