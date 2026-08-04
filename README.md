@@ -47,7 +47,6 @@ Student-ID-Card/
 - HTML Structure
 - CSS Styling
 - Flexbox
-- Responsive Design
 - Card Layout Design
 - UI Development
 
